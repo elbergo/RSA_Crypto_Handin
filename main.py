@@ -178,7 +178,7 @@ def main():
         print()
         while True:
             menu_selection = input('> ')
-            if menu_selection in '12345':
+            if menu_selection in '123459':
                 break
         if menu_selection == '1':
             name = input('Enter a name for the key files: ')
