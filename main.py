@@ -5,7 +5,6 @@ import os
 import sys
 
 
-
 def rabin_miller(num):
     s = num - 1
     t = 0
